@@ -68,10 +68,13 @@ endmodule
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-Screenshot 2024-11-14 165129
+![Screenshot 2024-11-14 165129](https://github.com/user-attachments/assets/96511270-0fcc-4970-958a-ba28969179c9)
+
 
 **Output/TIMING Waveform**
-"C:\Users\admin\Desktop\DE LAB\exp 3\Screenshot 2024-11-14 165529.png"
+![Screenshot 2024-11-14 165529](https://github.com/user-attachments/assets/467d6dca-9f02-49ea-889c-9809f4759383)
+
+
 
 **Result:**
 Thus the half adder and half subtracter circuit and truth table are verified.
